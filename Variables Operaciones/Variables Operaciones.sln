@@ -9,7 +9,7 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "aritmetica", "aritmetica\ar
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ecuacion", "ecuacion\ecuacion.vbproj", "{53D59CD5-4815-49E2-8458-85896FFF523E}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "uno_seis", "uno_seis\uno_seis.vbproj", "{8AB475DB-8E4B-4A2C-A954-B294415D9254}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "sumatoria_media", "uno_seis\sumatoria_media.vbproj", "{8AB475DB-8E4B-4A2C-A954-B294415D9254}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "semanas", "semanas\semanas.vbproj", "{31A6B7CE-FE68-4735-BB7F-72BD280A33FE}"
 EndProject

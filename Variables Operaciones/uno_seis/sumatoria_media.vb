@@ -1,6 +1,6 @@
 Imports System
 
-Module uno_seis
+Module sumatoria_media
     Sub Main(args As String())
         Console.WriteLine("Hello World!")
 
