@@ -2,9 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Variables_Operaciones</RootNamespace>
+    <RootNamespace>concatenacion</RootNamespace>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <StartupObject>Variables_Operaciones.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
