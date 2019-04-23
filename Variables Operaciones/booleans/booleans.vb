@@ -1,4 +1,5 @@
 Imports System
+'1.8
 Module booleans
     Sub Main(args As String())
 

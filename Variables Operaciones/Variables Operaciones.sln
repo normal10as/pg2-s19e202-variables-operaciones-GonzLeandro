@@ -3,21 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "concatenacion", "concatenacion\concatenacion.vbproj", "{E6EC7E97-5447-4FB1-96F1-9BEB2A8C6EB5}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "concatenacion", "concatenacion\concatenacion.vbproj", "{E6EC7E97-5447-4FB1-96F1-9BEB2A8C6EB5}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "aritmetica", "aritmetica\aritmetica.vbproj", "{14E50AB2-F709-406B-AA10-40C7AC7FDB75}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "aritmetica", "aritmetica\aritmetica.vbproj", "{14E50AB2-F709-406B-AA10-40C7AC7FDB75}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ecuacion", "ecuacion\ecuacion.vbproj", "{53D59CD5-4815-49E2-8458-85896FFF523E}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "ecuacion", "ecuacion\ecuacion.vbproj", "{53D59CD5-4815-49E2-8458-85896FFF523E}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "sumatoria_media", "uno_seis\sumatoria_media.vbproj", "{8AB475DB-8E4B-4A2C-A954-B294415D9254}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "sumatoria_media", "uno_seis\sumatoria_media.vbproj", "{8AB475DB-8E4B-4A2C-A954-B294415D9254}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "semanas", "semanas\semanas.vbproj", "{31A6B7CE-FE68-4735-BB7F-72BD280A33FE}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "semanas", "semanas\semanas.vbproj", "{31A6B7CE-FE68-4735-BB7F-72BD280A33FE}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "booleans", "booleans\booleans.vbproj", "{068BF780-CAB3-4A3C-A4EE-530E002B4F9E}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "booleans", "booleans\booleans.vbproj", "{068BF780-CAB3-4A3C-A4EE-530E002B4F9E}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "variables_consola", "variables_consola\variables_consola.vbproj", "{1DBBE8A8-343A-49FC-A054-360BCE45928E}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "variables_consola", "variables_consola\variables_consola.vbproj", "{1DBBE8A8-343A-49FC-A054-360BCE45928E}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "variables_tipos", "variables_tipos\variables_tipos.vbproj", "{C7CF839C-B7B2-4C05-9471-A14FDE322B3C}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "variables_tipos", "variables_tipos\variables_tipos.vbproj", "{C7CF839C-B7B2-4C05-9471-A14FDE322B3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

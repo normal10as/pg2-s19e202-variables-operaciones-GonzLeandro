@@ -1,5 +1,5 @@
 Imports System
-
+'1.3
 Module concatenacion
     Sub Main(args As String())
         Console.WriteLine("Hello World!")
@@ -9,11 +9,9 @@ Module concatenacion
         Dim fecha_inicio_actividades As Date = #2019-4-22#
 
         'Conversion implicita
-        Dim altura = altura_calle
-        Dim fecha = fecha_inicio_actividades
         Console.WriteLine("Empresa: " & nombre_empresa)
-        Console.WriteLine("Direccion: " & nombre_calle & " " & altura)
-        Console.WriteLine("Inicio de actividades: " & fecha)
+        Console.WriteLine("Direccion: " & nombre_calle & " " & altura_calle)
+        Console.WriteLine("Inicio de actividades: " & fecha_inicio_actividades)
 
         'Conversion explicita
 

@@ -1,5 +1,5 @@
 Imports System
-
+'1.6
 Module sumatoria_media
     Sub Main(args As String())
         Console.WriteLine("Hello World!")

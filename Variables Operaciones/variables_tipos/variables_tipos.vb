@@ -1,5 +1,5 @@
 Imports System
-
+'1.2
 Module variables_tipos
     Sub Main(args As String())
         Dim nombre As String
@@ -12,8 +12,8 @@ Module variables_tipos
         fecha_nacimiento = #1998/04/16#
         Dim altura_corporal As UShort
         altura_corporal = "174"
-        Dim nacionalidad As String
-        nacionalidad = "Argentina"
+        Dim nacionalidad As Boolean
+        nacionalidad = True
         Dim temperatura As SByte
         temperatura = 22
         Dim calle As String
@@ -37,7 +37,7 @@ Module variables_tipos
         Console.WriteLine("Lugar de nacimiento: " & lugar_nacimiento)
         Console.WriteLine("Fecha de nacimiento: " & fecha_nacimiento)
         Console.WriteLine("La altura es: " & altura_corporal & "cm")
-        Console.WriteLine("Su nacionalidad es: " & nacionalidad)
+        Console.WriteLine("Es argentino?: " & nacionalidad)
         Console.WriteLine("La temperatura ambiente es: " & temperatura & "°")
         Console.WriteLine("Direccion: " & calle & " " & altura_calle)
         Console.WriteLine("La distancia entre Posadas y Candelaria es: " & distancia_P_C)
