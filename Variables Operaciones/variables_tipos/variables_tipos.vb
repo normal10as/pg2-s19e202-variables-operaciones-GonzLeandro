@@ -28,8 +28,8 @@ Module variables_tipos
         poblacion = 44000000
         Dim peso_producto As Byte
         peso_producto = 1
-        Dim monto_producto As Byte
-        monto_producto = 80
+        Dim monto_producto As Decimal
+        monto_producto = 80.0
 
 
         Console.WriteLine("El nombre es: " & nombre)
