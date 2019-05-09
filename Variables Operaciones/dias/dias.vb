@@ -10,7 +10,7 @@ Enum diasdelasemana
     sabado
 End Enum
 
-Module Program
+Module dias
     Sub Main(args As String())
         Dim dia As diasdelasemana
         Console.WriteLine("Ingrese un numero del 1 al 7: ")

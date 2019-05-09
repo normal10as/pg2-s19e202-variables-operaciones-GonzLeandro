@@ -39,7 +39,7 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cadenas1", "Cadenas1\Cadena
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Refrase", "Refrase\Refrase.vbproj", "{ADB32727-0C6F-45CB-9B7C-9FE614A481AF}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dias", "dias\dias.vbproj", "{F307C55C-AE26-4BC2-B3D1-8D94875A6104}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dias", "dias\Dias.vbproj", "{F307C55C-AE26-4BC2-B3D1-8D94875A6104}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
